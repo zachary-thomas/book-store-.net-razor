@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AJ1ZgkkkO7cUEg73lkfoqNluUMqRphfcF6o8UKS3opDUKt3lkYVLJtBLb236yDl6nGCf/D8ae5aOaIdKiV7QVA==",
+  "dgSpecHash": "PrSmUmPFTWvFVD6rLgvyMU8gm6CvUCspyi+zzBtifcbxyRV45FR9R8lGGx30mguBkfewvVm5yAsnErp5Nix6ZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zach7\\Source\\Repos\\Tutorials\\Book store asp net mvc\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
+  "projectFilePath": "C:\\Users\\zach7\\Source\\Repos\\Tutorials\\Book store asp net razor\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zach7\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\zach7\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.6\\microsoft.aspnetcore.mvc.razor.extensions.3.1.6.nupkg.sha512",
